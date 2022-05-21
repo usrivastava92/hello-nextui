@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 .vs-code
-cloudstack-ui.code-workspace
+hello-nextui.code-workspace
